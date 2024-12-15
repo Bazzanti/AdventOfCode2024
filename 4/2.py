@@ -1,4 +1,3 @@
-import re
 text_sample = """MMMSXXMASM
 MSAMXMSMSA
 AMXSXMAAMM
